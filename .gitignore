@@ -2,3 +2,6 @@
 .cursor/mcp
 .cursor/mcp.json
 .cursor/screenshots
+
+# Dependency directories
+node_modules/
