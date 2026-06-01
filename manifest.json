@@ -1,7 +1,7 @@
 {
   "id": "obsidian-canvas-export",
   "name": "Canvas Export to PDF & Clipboard",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "minAppVersion": "1.1.0",
   "description": "Exports active Canvas to a sequential vector PDF with original layout data and copies the PDF directly into your system clipboard.",
   "author": "Antigravity",
